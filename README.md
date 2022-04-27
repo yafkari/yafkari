@@ -1,8 +1,6 @@
-### Hi 👋, I'm Younes Afkari
+### Hi 👋, I'm Younes
 
-##### A passionate developer from Belgium!
-
-Here are some ideas to get you started:
+#### A passionate developer from Belgium!
 
 - 🔭 I’m currently working as a fullstack developer for 👀 (React/Typescript and C# .NET Core)
 - 👨‍💻 You can find more infos about me on my [personal website](https://yafkari.dev) or on [LinkedIn](https://www.linkedin.com/in/younes-afkari/).
